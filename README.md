@@ -13,6 +13,15 @@
 | Whales        | Yellow        |
 | Elaphants.    | Pink.         |
 
+***
+
+1. Lists are so much fun
+2. They are easy to make
+⋅⋅* And you have a lot of creativity with them
+1. They allow you to be organgized
+⋅⋅1. And happy
+4. Lists are so much fun
+
 <!--
 **simatabbaa/simatabbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
