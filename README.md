@@ -5,6 +5,13 @@
 ![alt text](fish.jpg)
 
 ***
+### Here is a divider
+
+|    Animals    |    Colors     |
+| ------------- |:-------------:|
+| Donkeys       | Green.        |
+| Whales        | Yellow        |
+| Elaphants.    | Pink.         |
 
 <!--
 **simatabbaa/simatabbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
