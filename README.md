@@ -22,6 +22,10 @@
 * And happy
 4. Lists are so much fun
 
+***
+
+[^yay]
+
 <!--
 **simatabbaa/simatabbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
