@@ -3,8 +3,7 @@
 ### [Here is a link of my last robotics project](https://drive.google.com/file/d/1gfWwSqtNetqFYWXZF32nCUpfigkFU7Zi/view?usp=sharing)
 
 Inline-style: 
-![alt text](file:///Users/Sima/Downloads/pexels-crisdip-128756.jpg)
-
+![file:///Users/Sima/Downloads/pexels-crisdip-128756.jpg](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 <!--
 **simatabbaa/simatabbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
