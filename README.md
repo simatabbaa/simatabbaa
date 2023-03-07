@@ -17,9 +17,9 @@
 
 1. Lists are so much fun
 2. They are easy to make
-⋅⋅* And you have a lot of creativity with them
+* And you have a lot of creativity with them
 1. They allow you to be organgized
-⋅⋅1. And happy
+* And happy
 4. Lists are so much fun
 
 <!--
