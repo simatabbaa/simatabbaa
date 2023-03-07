@@ -6,5 +6,4 @@
 <!--
 **simatabbaa/simatabbaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.google.com/search?q=fish&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiosOimkcr9AhXiV6QEHTGvA9QQ_AUoAXoECAEQAw&biw=1440&bih=701&dpr=2#imgrc=1aDUSVCB_bCt2M) "Logo Title Text 2"
